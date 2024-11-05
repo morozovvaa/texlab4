@@ -163,7 +163,7 @@ Pydoc проще и быстрее в использовании для небо
 Javadoc предоставляет больше возможностей для настройки внешнего вида и содержания документации через дополнительные параметры в Maven или командной строке.  
 
 *Ссылки на опубликованную документацию на GitHub Pages.*
-<https://morozovvaa.github.io/sampleproject/>
-<https://morozovvaa.github.io/javaproject/>
-<https://morozovvaa.github.io/javaprojectmaven/>
+<https://morozovvaa.github.io/sampleproject/>  
+<https://morozovvaa.github.io/javaproject/>  
+<https://morozovvaa.github.io/javaprojectmaven/>  
 
