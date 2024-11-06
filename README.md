@@ -167,3 +167,8 @@ Javadoc предоставляет больше возможностей для 
 <https://morozovvaa.github.io/javaproject/>  
 <https://morozovvaa.github.io/javaprojectmaven/>  
 
+*Ссылки на репозитории*
+[Проект на python](https://github.com/morozovvaa/sampleproject)
+[Проект на java](https://github.com/morozovvaa/javaproject)
+[Проект на java с помощью maven](https://github.com/morozovvaa/javaprojectmaven)
+
