@@ -162,13 +162,13 @@ Javadoc (Java):
 Pydoc проще и быстрее в использовании для небольших проектов на Python, в то время как Javadoc требует больше усилий для настройки и может быть более подходящим для больших проектов на Java, где важна структурированность и детализированность документации.  
 Javadoc предоставляет больше возможностей для настройки внешнего вида и содержания документации через дополнительные параметры в Maven или командной строке.  
 
-*Ссылки на опубликованную документацию на GitHub Pages.*
+*Ссылки на опубликованную документацию на GitHub Pages.*  
 <https://morozovvaa.github.io/sampleproject/>  
 <https://morozovvaa.github.io/javaproject/>  
 <https://morozovvaa.github.io/javaprojectmaven/>  
 
-*Ссылки на репозитории*
-[Проект на python](https://github.com/morozovvaa/sampleproject)
-[Проект на java](https://github.com/morozovvaa/javaproject)
-[Проект на java с помощью maven](https://github.com/morozovvaa/javaprojectmaven)
+*Ссылки на репозитории*  
+[Проект на python](https://github.com/morozovvaa/sampleproject)  
+[Проект на java](https://github.com/morozovvaa/javaproject)  
+[Проект на java с помощью maven](https://github.com/morozovvaa/javaprojectmaven)  
 
